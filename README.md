@@ -15,6 +15,7 @@ I am an enthusiast Data analyst with Strong academic background and extensive pr
   - :pencil2: [Twitter](https://twitter.com/Durgesh34763409)
   - :speaker: [you tube](https://www.youtube.com/channel/UC5-jCUZhaomx1zyxMLNAuFg)
   - :bulb: [Instagram](https://www.instagram.com/dc_snp/)
+  - :earth_africa: [Facebook](https://www.facebook.com/dc.snp/)
 
 [![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=spdsp04&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
